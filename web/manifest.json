@@ -1,6 +1,6 @@
 {
-    "name": "mental_health_tracker",
-    "short_name": "mental_health_tracker",
+    "name": "mental_health_tracker_mobile",
+    "short_name": "mental_health_tracker_mobile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
